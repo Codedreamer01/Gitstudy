@@ -1,2 +1,5 @@
 My git
 my second edit
+Change in conflict-branch third edit
+ 
+ 
