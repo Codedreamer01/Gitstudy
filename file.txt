@@ -1,2 +1,3 @@
 My git
 my second edit
+Conflicting change on master third edit
